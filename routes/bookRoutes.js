@@ -5,6 +5,7 @@ const {
   getBooks, 
   addBook, 
   addReview,
+  deleteBook,
   getReviews // ✅ Функция импортирована
 } = require('../controllers/bookController');
 
